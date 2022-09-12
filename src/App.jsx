@@ -6,11 +6,11 @@ const App = () => {
         <Header />
         <Nav />
         <About />
-        <Contact />
         <Experience />
-        <Portfolio />
         <Services />
+        <Portfolio />
         <Testimonials />
+        <Contact />
         <Footer />
     </>
   )
